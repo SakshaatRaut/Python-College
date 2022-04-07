@@ -1,0 +1,16 @@
+a="Python Programming"
+print(a[15])
+print("Length of string is",len(a))
+print(a[0:6])
+print(a[7:14])
+print(a[2:4]+a[15:18])
+print(a.upper())
+b= " is interesting"
+print(a+b)
+print(a.lower())
+print(a.split(" "))
+
+##NEW CODE
+c="Welcome to KJSCE"
+print(c[11:16])
+print("Length of string is",len(c))
